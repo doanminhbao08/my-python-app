@@ -1,5 +1,6 @@
 # app.py
 import time
+import pandas as pd
 
 def main():
     print("--- Docker Calculator ---")
